@@ -1,7 +1,6 @@
 # 💻 Sarat Jabari
 
 **🎓 Third-Year Computer Science Student** @ **Hebron University**
-**🆔 University ID:** `22311322`
 
 ---
 

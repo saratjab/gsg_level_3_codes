@@ -77,4 +77,4 @@ So there are exactly 6 valid schedules.
 ## 👤 Author
 
 * **Name:** Sarat Jabari
-* **University ID:** 22311322
+* **Email :** \[[saratjabari905@gmail.com](mailto:saratjabari905@gmail.com)]
